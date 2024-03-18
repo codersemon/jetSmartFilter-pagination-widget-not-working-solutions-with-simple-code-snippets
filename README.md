@@ -19,7 +19,7 @@ But when I was using pagination module in custom shop page for woocommerce from 
 
 ## YouTube Video Tutorial
 For a visual guide :
-[Watch Video Tutorial](https://youtu.be/hlBcBM2oH_g)
+[Watch Video Tutorial](https://youtu.be/SyHSwBGWQSg)
 
 ## Support
 For any questions or assistance, please contact:
